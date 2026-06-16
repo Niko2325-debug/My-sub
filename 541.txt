@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: WL SUB
+#announce: БС/ЧС БС сервера использовать только при белых списках! тгк @wlsubrus
+vless://21ad715f-f0c2-48ec-9f4b-64f433f3cbe8@c1.com:8443?
+security=reality&encryption=none&echfq=none&pbk=pPi-
+WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType
+=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-
+vision&sni=storage.yandex.net&sid=500aec9e9e5e2212#%D0%A7
+%D1%91%D1%80%D0%BD%D1%8B%D0%B5+%D0%A1%D0%BF%D
+0%B8%D1%81%D0%BA%D0%B8+%F0%9F%91%87
