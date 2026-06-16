@@ -1,10 +1,10 @@
 #profile-update-interval: 1
 #profile-title: WL SUB
 #announce: БС/ЧС БС сервера использовать только при белых списках! тгк @wlsubrus
-vless://21ad715f-f0c2-48ec-9f4b-64f433f3cbe8@c1.com:8443?
-security=reality&encryption=none&echfq=none&pbk=pPi-
-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType
-=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-
-vision&sni=storage.yandex.net&sid=500aec9e9e5e2212#%D0%A7
-%D1%91%D1%80%D0%BD%D1%8B%D0%B5+%D0%A1%D0%BF%D
-0%B8%D1%81%D0%BA%D0%B8+%F0%9F%91%87
+vless://21ad715f-f0c2-48ec-9f4b-64f433f3cbe8@c1.com:8443?security=reality&encryption=none&echfq=none&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=500aec9e9e5e2212#%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B5+%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%F0%9F%91%87
+vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?security=reality&encryption=none&echfq=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#%F0%9F%87%AB%F0%9F%87%B7+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+vless://f4779677-98b1-4bea-bc54-5ecfe4813732@ca-dp-01.com:8443?security=reality&encryption=none&echfq=none&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d3ee47fc2f553c44#%F0%9F%87%A8%F0%9F%87%A6+%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
+vless://4e817899-2466-425c-a671-7ab5f25d08e8@2:443?security=reality&encryption=none&echfq=none&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=ad041ff6#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%F0%9F%91%87
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?mode=stream-up&path=%2Fxh&security=reality&encryption=none&echfq=none&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=firefox&allowinsecure=0&type=xhttp&sni=yandex.by#%F0%9F%87%B7%F0%9F%87%BA+%D0%9C%D0%BE%D0%B1.+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+1
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?mode=stream-up&path=%2Fxh&security=reality&encryption=none&echfq=none&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&host=yandex.by&fp=firefox&allowinsecure=0&type=xhttp&sni=yandex.by#%F0%9F%87%B7%F0%9F%87%BA+%D0%9C%D0%BE%D0%B1.+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+2
+vless://bbcde690-aca4-48dd-8da7-85fbad4b6d99@84.252.131.124:443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=4Opj8Sbz5aL7S2AXbBNfUuRBfRpdN8nO55WmZsD3IV8&fp=firefox&allowinsecure=0&type=grpc&serviceName=grpc&sni=api.events.plus.yandex.net&sid=edd10b6d4b8f7ce4#%F0%9F%87%B3%F0%9F%87%B1+%D0%9C%D0%BE%D0%B1.+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+3
