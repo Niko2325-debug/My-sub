@@ -1,6 +1,7 @@
 #profile-update-interval: 1
 #profile-title: WL SUB
 #announce: БС/ЧС тгк @wlsubrus сервера для БС использовать только при белых списках!
+#support-url: https://t.me/wlsubrus
 vless://4e817899-2466-425c-a671-7ab5f25d08e8@2:443?security=reality&encryption=none&echfq=none&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=ad041ff6#%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5+%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%F0%9F%91%87
 vless://b9f33025-9b40-4ece-9a10-85da0f0af052@fin185.alexanderoff.ru:36294?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 vless://78aa0206-1598-4a75-b28b-ebfecb769a48@maxriga.sixsubstore.ru:443?security=reality&encryption=none&echfq=none&pbk=l5W--I3QPQFTIvBQU14WR8QtIaS8HIDZarzq6W0lO20&headerType=none&fp=safari&spx=%2Fcdn&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=maxriga.sixsubstore.ru&sid=02f1960985e88c0f#%F0%9F%87%A6%F0%9F%87%AA+%D0%9E%D0%90%D0%AD
