@@ -2,7 +2,7 @@
 #profile-title: WL SUB
 #announce: БС/ЧС | Сервера для Белых Списков использовать только при белых списках!
 #support-url: https://t.me/wlsubrus
-#subscription-userinfo: upload=0; download=0; total=1073741824000; expire= 01.01.2031
+#subscription-userinfo: upload=0; download=0; total=1073741824000; expire=1860
 #hide-settings: 1
 vless://4e817899-2466-425c-a671-7ab5f25d08e8@2:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&sid=ad041ff6&type=tcp&headerType=none#%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%F0%9F%8F%B4%20%F0%9F%91%87
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@196.196.206.38:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=finkafsb.finiki.lol&fp=qq&pbk=YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA&sid=d110331f200987ae&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%F0%9F%8F%B4
